@@ -1,0 +1,15 @@
+{
+  "name": "clean-console-webpack-plugin",
+  "version": "1.0.0",
+  "description": "a plugin to remove  console.log for webpack5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "lzc",
+  "license": "MIT"
+}
